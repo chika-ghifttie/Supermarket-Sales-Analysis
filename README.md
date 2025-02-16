@@ -24,7 +24,14 @@ thousands of free datasets for practice. The dataset contains key details such a
 * Tax (Tax applied to the sale)
 * Total Price (Final price after tax)
 * Reward Points (Points earned per purchase)
-## 🔑 Key Features
+## Aim of this Project
+  The primary aim of this project are as follows:
+  - Visualize Sales Trends: Utilize Excel's Pivot Tables and Charts to create visual representations of sales data, highlighting significant patterns and outliers.
+  - Explore Customer Purchase Behavior: Analyze purchasing patterns based on customer demographics such as gender, and geographical factors like branch and city.
+  - Interactive Supermarket Dashboard: Design an interactive dashboard using Power BI.
+## Processes
+- Step 1: Data Cleaning Tools(Excel): Reviewed the dataset for missing or inconsistent entries and made necessary corrections to ensure data accuracy.I also addressed inconsistencies where certain products were assigned incorrect categories—for example, instances where a product like "Shampoo" was mistakenly categorized under "Fruits." To rectify these errors, I utilized Excel's Find and Replace feature. This process ensured that each product was accurately categorized, thereby enhancing the reliability of subsequent analyses.
+ 
 ### 1️⃣ Data Exploration:
 
 Conducted in Excel using pivot tables and formulas to summarize sales data and calculate key metrics.
@@ -38,3 +45,5 @@ Extracted insights such as Top performing Product Categories across Branches, ge
 * Sales Overview by City
 * Top 3 Product category
 * Least Product Category
+
+ 
