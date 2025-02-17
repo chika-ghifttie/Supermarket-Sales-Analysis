@@ -2,13 +2,30 @@
 ## 📖 Project Overview
 This project analyzes supermarket sales using Excel, SQL, and Power BI. The goal is to understand sales trends, top-selling products, and customer behavior.
 It includes interactive visualizations in Power BI.
-## 📂Dataset Information
+## Dataset Information
 
 ![image](https://github.com/user-attachments/assets/ec6b52c4-2073-49bc-8b56-58e037a974e2)
-## 🛠 Tools Used
-* Excel: Data cleaning, Pivot Table analysis
-* SQL: Queries for data exploration
-* Power BI: Interactive dashboard creation
+## Steps and Tools Used
+1. Data Collection and Cleaning
+
+* Tool: Excel
+* Purpose: Imported the supermarket sales dataset into Excel for initial review and cleaning. Utilized Excel's features to identify and correct inconsistencies, such as misclassified product categories, ensuring data accuracy for analysis.
+  
+-![Raw Data](https://github.com/user-attachments/assets/ec6b52c4-2073-49bc-8b56-58e037a974e2)
+
+2. Data Analysis and Querying
+
+* Tool: SQL
+* Purpose: Employed SQL to perform complex queries on the cleaned dataset. This facilitated efficient data manipulation, aggregation, and extraction of specific insights, such as identifying top-selling products and analyzing sales trends over time.
+3. Data Visualization and Reporting
+
+* Tool: Power BI
+* Purpose: Utilized Power BI to create interactive dashboards and visualizations. This enabled a comprehensive representation of the data, highlighting key metrics like sales performance across branches, product profitability, and customer purchasing behavior, thereby aiding in informed decision-making.
+4. Pivot Tables
+  
+* Tool: Excel
+* Purpose: Created PivotTables to summarize sales data and identify patterns.
+**Files**:
 ## 📂 Data Sources
 * Sales Dataset: The dataset for this project was gotten from Kaggle,an online platform for data science and machine learning that provides
 thousands of free datasets for practice. The dataset contains key details such as:
