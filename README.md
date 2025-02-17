@@ -1,10 +1,7 @@
 # Supermarket-Sales-Analysis
-## 📖 Project Overview
+##  Project Overview
 This project analyzes supermarket sales using Excel, SQL, and Power BI. The goal is to understand sales trends, top-selling products, and customer behavior.
 It includes interactive visualizations in Power BI.
-## Dataset Information
-
-![image](https://github.com/user-attachments/assets/ec6b52c4-2073-49bc-8b56-58e037a974e2)
 ## Steps and Tools Used
 1. Data Collection and Cleaning
 
@@ -12,6 +9,8 @@ It includes interactive visualizations in Power BI.
 * Purpose: Imported the supermarket sales dataset into Excel for initial review and cleaning. Utilized Excel's features to identify and correct inconsistencies, such as misclassified product categories, ensuring data accuracy for analysis.
   
 -![Raw Data](https://github.com/user-attachments/assets/ec6b52c4-2073-49bc-8b56-58e037a974e2)
+![Cleaned Data](https://github.com/user-attachments/assets/a8b038ac-d4bb-4508-85fe-d864f09de85d)
+
 
 2. Data Analysis and Querying
 
